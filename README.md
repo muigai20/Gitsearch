@@ -1,5 +1,8 @@
 # GITHUB SEARCHER
-#### This is a quotes application that allows a user to search for github users.
+#### 
+This is Github project hat enables the user to be able to search other github users and their repos.
+## Author
+Joseph Kamau
 
 ## Table of content
 * General Information
@@ -48,7 +51,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Setup/Installation
-To view the website, click or copy (https://github.com/SamuelOkoth/Gitsearch) to your browser and load it or:
+To view the website, click or copy (https://github.com/muigai20/Gitsearch) to your browser and load it or:
 * Clone this repository
 * Open a HTML file
 * Open web browser of choice.
@@ -57,23 +60,23 @@ To view the website, click or copy (https://github.com/SamuelOkoth/Gitsearch) to
 ## Behavior Driven Development
 | Inputs  | Outputs  |  User Behavior |
 |:---------|:----------:|----------------:|
-|  Enter username in Form |  Data Validation occurs | User inputs details in the Search Field  |
+
 |  Search button | Sends user input to display area  | User views input  |
 |  User views input |  Repository Display |   Displays user repositories| User is directed to the Github page  |
 
 ## Support and contact details
- please reach out to  okothsamuel78@gmail.com
+ please reach out to  muigaijosephkamau@gmail.com
 For further inquiries
 ## Bugs
 No known bugs.
 
 ## Creator
-Created by SAMUEL OKOTH
+Created by Joseph Kamau
 
 ## Licence
 MIT License
 
-Copyright (c) [2019] [SAMUEL OKOTH]
+Copyright (c) [2019] [Joseph Kamau]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -92,4 +95,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Copyright &copy;2019 [Samuel Okoth](https://github.com/SamuelOkoth)
+Copyright &copy;2019 [Joseph Kamau]
