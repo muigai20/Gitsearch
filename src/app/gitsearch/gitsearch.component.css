@@ -3,7 +3,7 @@
       100deg,
       rgba(164, 42, 30, 0.5),
       rgba(54, 54, 54, 0.8)
-    ), url('/assets/background1.jpg');
+    ), url('src/assets/bacground2.jpg');
   height: 100vh;
   max-height: 100%;
   background-position:center;
